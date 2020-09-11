@@ -19,3 +19,7 @@ This repository contains all my MOOC certificates
  ### Modern Big Data Analysis with SQL
  <a href="https://github.com/LotaIbe/Certificates/blob/master/Specialization%20Certificates/Modern%20Big%20Data%20Analysis%20with%20SQL.pdf">
  <img src ="https://github.com/LotaIbe/Certificates/blob/master/Specialization%20Certificates/images/Modern%20Big%20Data%20Analysis%20with%20SQL.png">
+
+### Statistics with R
+<a href = "https://github.com/LotaIbe/Certificates/blob/master/Specialization%20Certificates/Statistics%20with%20R.pdf">
+ <img src="https://github.com/LotaIbe/Certificates/blob/master/Specialization%20Certificates/images/Statistics%20with%20R.jpg">
