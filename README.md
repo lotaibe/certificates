@@ -1,4 +1,3 @@
-# Certificates
 MOOC's completed on Codecademy and Coursera
 
 ## See preview below
